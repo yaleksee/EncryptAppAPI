@@ -6,7 +6,7 @@
 
  **Run** 
 1. Run API application.
-2. For Front use UI application [].
+2. For Front use UI application (https://github.com/yaleksee/EncryptAppUI).
 
 **Test**
 1. MessageControllerTest verifies standard crud operations
